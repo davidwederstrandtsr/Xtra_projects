@@ -10,6 +10,11 @@
       aren't wondering what to do next or uncertain about how to spend your time
 - Acquire
     - Download the csv file from kaggle, don't worry about automating this
+    - import the csv as a dataframe
+    - view the statistical information of the dataframe
+        - .describe(), .info(), .shape
+        - look for nulls .isna()
+        - idetify the columns and the purpose of their values
 - Preperation
     - narrow scope to just projects that have either succeeded or failed
     - choose a subset of the columns to focus on
