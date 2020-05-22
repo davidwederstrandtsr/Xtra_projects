@@ -18,23 +18,23 @@
       - look for nulls .isna()
       - idetify the columns and the purpose of their values
 
-### Column and purpose
-  - ID: identification number assigned by Kickstarter
-  - name: Business name
-  - category: Product type  e.g. Poetry
-  - main_category: Parent category  e.g. Publishing
-  - currency: Country currency is listed as.  e.g. USD for United States Dollar
-  - deadline: Date pledged goal needs to be reached
-      - 100% of the goal must be reached by this date or no funds are collected
-  - goal: Monetary amount required for a successful Kiskstart
-  - launched: Date the kickstart is launched
-  - pledged: Total monetary amount pledged from around the world
-  - state: Kickstarts that have either succeed or failed
-  - backers: Number of pledgers
-  - country: Origin of company requesting funding
-  - usd_pledged: Pledged in USD, converted by Kickstarter
-  - usd_pledged_real: Pledged in USD, converted by Foreign exchange rates and currency conversion JSON API
-  - usd_goal_real: Goal in USD, converted by Foreign exchange rates and currency conversion JSON API
+      - Column and purpose
+          - ID: identification number assigned by Kickstarter
+          - name: Business name
+          - category: Product type  e.g. Poetry
+          - main_category: Parent category  e.g. Publishing
+          - currency: Country currency is listed as.  e.g. USD for United States Dollar
+          - deadline: Date pledged goal needs to be reached
+              - 100% of the goal must be reached by this date or no funds are collected
+          - goal: Monetary amount required for a successful Kiskstart
+          - launched: Date the kickstart is launched
+          - pledged: Total monetary amount pledged from around the world
+          - state: Kickstarts that have either succeed or failed
+          - backers: Number of pledgers
+          - country: Origin of company requesting funding
+          - usd_pledged: Pledged in USD, converted by Kickstarter
+          - usd_pledged_real: Pledged in USD, converted by Foreign exchange rates and currency conversion JSON API
+          - usd_goal_real: Goal in USD, converted by Foreign exchange rates and currency conversion JSON API
 
 ### Preperation
   - narrow scope to just projects that have either succeeded or failed
