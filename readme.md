@@ -1,4 +1,4 @@
-# Kaggle Side Project with Kickstarter Data
+# Kaggle's Kickstarter Data
 
 - https://www.kaggle.com/kemical/kickstarter-projects
 ## Goal: Predict whether or not a project will be successful
